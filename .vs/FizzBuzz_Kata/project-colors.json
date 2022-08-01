@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "838f2d40-f83a-4fe5-b86c-00f2d3dbeb60": {
+      "ProjectGuid": "838f2d40-f83a-4fe5-b86c-00f2d3dbeb60",
+      "DisplayName": "FizzBuzz_Kata",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
